@@ -1,9 +1,9 @@
 # JOKES APP
-## _Be the reason of someone to smile_
+## _Design/Development Brief
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodejs.org/en/)
 
-Jokes Application is single page, less and smart code application developed to make people smile on each click, this application is designed on simple Html, CSS, JQuerry and backend was developed on NodeJS and Express (A Javascript Framework for Perfectionists), SQLITE is used as database.
+Jokes Application is single page, less and smart code application developed to make people smile on each click, this application is designed on simple Html, CSS, JQuerry and backend was developed on NodeJS and Express , SQLITE is used as database.
 
 ## Features
  - Async Calls with JQuerry
